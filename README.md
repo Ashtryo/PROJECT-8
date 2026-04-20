@@ -77,28 +77,6 @@ The system also provides:
 
 ---
 
-## 📂 Project Structure
-
-```
-Job_Market_Analysis_and_Recommendation_System/
-│
-├── data/
-│   └── raw/jobs.csv
-│
-├── models/
-│   ├── best_model.pkl
-│   └── model_columns.pkl
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
