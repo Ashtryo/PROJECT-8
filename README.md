@@ -176,12 +176,6 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
-
-**Devesh Kumar Mandal**
-
----
-
 ## 🌐 Live Application
 
 👉 https://jobmarketanalysisandrecommendationsystem.streamlit.app
