@@ -173,13 +173,6 @@ streamlit run app.py
 * Improve recommendation accuracy using NLP models
 * Add interactive dashboards
 * Deploy using Docker
-
----
-
-## 🌐 Live Application
-
-👉 https://jobmarketanalysisandrecommendationsystem.streamlit.app
-
 ---
 
 ## 📜 License
